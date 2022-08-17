@@ -5,8 +5,7 @@ function Footer() {
     <footer className="info">
       <p>Click to edit a todo</p>
       <p>
-        Created by{" "}
-        <a href="https://linkedin.com/in/tayfundagci">Tayfun Dagci</a>
+        Created by <a href="https://github.com/frkylmz">Faruk YILMAZ</a>
       </p>
       <p>
         Part of <a href="http://todomvc.com">TodoMVC</a>
